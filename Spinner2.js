@@ -34,18 +34,6 @@ for (let i = 0; i <  beyBlade.length; i++) {
 
 
 
-// Sameer
-// const spinner = '\r|   \r/   \r-   \r\\   \r|   \r/   \r-   \r\\   \r'
-
-// let delay = 100;
-
-// for (let i = 0; i < spinner.length; i++) {
-//   delay += 200;
-//   setTimeout(() => process.stdout.write(spinner[i]), delay);
-// }
-
-
-// setTimeout(() => process.stdout.write('\n'), delay);
 
 
 
