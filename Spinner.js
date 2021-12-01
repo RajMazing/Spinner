@@ -32,7 +32,7 @@ setTimeout(() => {
 setTimeout(() => {
   // Need to escape the backlash since its's a special character
   process.stdout.write('\r-   ');
-}, 1200);
+}, 1300);
 setTimeout(() => {
   // Need to escape the backlash since its's a special character
   process.stdout.write('\r\\   ');
@@ -40,11 +40,11 @@ setTimeout(() => {
 setTimeout(() => {
   // Need to escape the backlash since its's a special character
   process.stdout.write('\r|   ');
-}, 1700);
+}, 1600);
 
 setTimeout(() => {
   process.stdout.write('\r/   ');
-}, 2000);
+}, 1900);
 
 
 
